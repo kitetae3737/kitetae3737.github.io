@@ -1,5 +1,5 @@
 ---
-title: 머신러닝
+title: 시스템 보안
 date: {2024-11-05 10:00:00 +0900}
 categories: [예창설]
 tags: []
